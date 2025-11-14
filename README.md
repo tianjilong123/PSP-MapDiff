@@ -7,3 +7,4 @@ We have provided our datasets for public: https://pan.baidu.com/s/1XlPpA361WEJ3I
 
 The datasets contain remote sensing images, online maps, semantic labels and edge labels from three urban areas.
 
+<img src='img/datasets.jpg'>
